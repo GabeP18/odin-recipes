@@ -1,1 +1,2 @@
 # odin-recipes
+In this project, I am going to be making three recipe webpages that can be accessed from the homepage. I will be using HTML to structure the page and I will be using CSS to design the presentation of the webpages. 
